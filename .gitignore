@@ -5,3 +5,5 @@ __pycache__/
 venv/
 spotify_new_dataset.csv
 spotify dataset.csv
+metadata.csv
+feature_df.csv
